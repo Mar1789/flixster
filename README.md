@@ -15,4 +15,4 @@ This project is a web project where I was able to integrate a web app to utilize
 
 # Demo
 
-  [Video]([url](https://drive.google.com/file/d/1WOEGKASwy5SbgLy5IBcTOPfwiOXZtaJC/view?usp=sharing)) 
+[Video](https://drive.google.com/file/d/1WOEGKASwy5SbgLy5IBcTOPfwiOXZtaJC/view?usp=sharing)
