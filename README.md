@@ -1,8 +1,14 @@
-# React + Vite
+# Flixster 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a web project where I was able to integrate a web app to utilize The Movies DataBase API to display movies to users 
 
-Currently, two official plugins are available:
+# Features 
+- Search feature to find movies
+- Filter movies by alphabetical, most popular, and more
+- Display move information to a "pop-up" model whenever a user clicks on a movie card
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# How to run (Node.js (npm) is required to be installed)
+
+- Clone the project to your local machine
+- Run npm install to install all necessary dependecies
+- Run npm start to run the website!
